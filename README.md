@@ -1,12 +1,12 @@
 PREDICTING HEART DISEASE USING MACHINE LEARNING.
 
-OBJECTIVE
+OBJECTIVE :
 Given details of patients, can we predict whether or not they have heart disease?
 
-DATA
+DATA :
 Data is collected from : https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
-FEATURES
+FEATURES :
 There are following features on our data:
 
 Create data dictionary
